@@ -40,8 +40,8 @@ function MainPage() {
                                 alt="inundação"></img>
                         </div>
                         <div className="aboutTxT">
-                            <p>Sobre a solução</p>
-                            <p>Uma plataforma digital que concentra dados de diferentes locais de saúde, proporcionando facilidade na escolha do local de atendimento. Com um sistema intuitivo, permite agendar consultas, acompanhar o histórico médico e encaminhar para outras instituições, oferecendo eficiência aos pacientes.</p>
+                            <p>Nossa olução</p>
+                            <p>O coração do nosso programa é um software abrangente de acompanhamento de resultados relacionados ao controle de vícios. Ao registrar o tipo específico de vício, seu estágio atual e estabelecer metas personalizadas, você terá uma ferramenta poderosa para moldar seu próprio percurso de superação. Nossa abordagem combina técnicas comprovadas, atividades práticas e estratégias de condicionamento psicológico, proporcionando um ambiente de apoio contínuo.</p>
 
                         </div>
                     </div>
@@ -50,7 +50,7 @@ function MainPage() {
                     <div className='UtiliContent'>
                         <div className='UtiliTxt'>
                             <p>O que ela fará?</p>
-                            <p>O Projeto Saúde Única centraliza informações sobre locais de atendimento médico, facilitando acesso, avaliação e agendamento de consultas. Também possibilita o acompanhamento da jornada de saúde, redirecionando para outras instituições, se necessário, para cuidados personalizados.</p>
+                            <p>Nosso programa funciona através de uma interface intuitiva, acessível em computadores, celulares e tablets. Você pode criar e acompanhar metas, receber orientações baseadas em fontes confiáveis, como a Organização Mundial de Saúde e a Associação Internacional de Psicologia Aplicada, e participar de um sistema de recompensas exclusivo que celebra cada vitória alcançada. Lembramos que nosso programa não substitui a orientação médica, mas atua como um parceiro valioso no seu processo de superação.</p>
                         </div>
                         <div className="UtiliImg">
                             <img
@@ -65,7 +65,7 @@ function MainPage() {
                     <div className='FuncioContent'>
                         <div className='FuncioTxt'>
                             <p>Como funcionará?</p>
-                            <p>A Plataforma Saúde Única, acessível via web ou aplicativo, requer um cadastro com informações pessoais, incluindo dados do convênio, se disponível. Utilizando a geolocalização, oferece opções de estabelecimentos de saúde próximos, permitindo agendamento e acesso ao tempo estimado para atendimento. Essa abordagem proporciona uma escolha consciente e ágil para cuidados de saúde personalizados.</p>
+                            <p>O funcionamento do nosso programa é simples e eficaz. Ao começar, você registra o tipo específico de vício, indica o estágio atual e estabelece metas personalizadas para o controle do vício. Nosso software utiliza uma abordagem abrangente que combina estratégias psicológicas, atividades práticas e metas tangíveis. Com uma interface intuitiva disponível em computadores, celulares e tablets, você pode acessar e monitorar seu progresso de qualquer lugar. O programa oferece orientações baseadas em fontes confiáveis, como a Organização Mundial de Saúde e a Associação Internacional de Psicologia Aplicada, para garantir informações precisas e confiáveis. Além disso, ao atingir suas metas, você será recompensado com benefícios exclusivos, criando um ciclo positivo de conquistas e incentivos ao longo de sua jornada de superação.</p>
                         </div>
                         <div className="FuncioImg">
                             <img
