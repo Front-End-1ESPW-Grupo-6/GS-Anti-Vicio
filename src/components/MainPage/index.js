@@ -1,7 +1,7 @@
 import React from 'react';
 import { Element } from 'react-scroll';
-import saudePng from '../../imgs/imagem_capa.jpg';
-import problemaImagem from '../../imgs/icon_color.png';
+import drogaCapa from '../../imgs/drogascapa.jpg';
+import drogaImagem from '../../imgs/drogas.jpg';
 import realtime from '../../imgs/icone_7_card.png';
 import Personalização from '../../imgs/icone_6_card.png';
 import Acesso from '../../imgs/icone_5_card.png';
@@ -21,7 +21,7 @@ function MainPage() {
                         </div>
                         <div className="HomeImg">
                             <img
-                                src={saudePng}
+                                src={drogaCapa}
                                 alt='gif sustentabilidade'></img>
                         </div>
                         <div className="HomeTxt2">
@@ -36,7 +36,7 @@ function MainPage() {
                     <div className="abtContainer">
                         <div className="aboutImg">
                             <img
-                                src={problemaImagem}
+                                src={drogaImagem}
                                 alt="inundação"></img>
                         </div>
                         <div className="aboutTxT">
