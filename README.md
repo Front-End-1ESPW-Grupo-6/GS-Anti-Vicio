@@ -39,7 +39,7 @@ As imagens utilizadas ao longo de todo o site se encontram na [pasta "imgs"](./s
 
 ___
 ## Como executar o projeto
-O site pode ser acessado por uma versão hospedada do site através [deste link]([https://challenge-2023-d826e.web.app/Soluçao](https://gs-saude.firebaseapp.com)).
+O site pode ser acessado por uma versão hospedada do site através [deste link](https://gs-saude.firebaseapp.com).
 
 Ou alternativamente, para executar o projeto, é necessário copiar o repositório em uma máquina local (através de um _IDE_, por exemplo), e ter instalado o ambiente de desenvolvimento [Node](https://nodejs.org/en).
 
