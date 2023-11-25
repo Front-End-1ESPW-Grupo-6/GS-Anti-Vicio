@@ -2,12 +2,11 @@ import React from 'react';
 import { Element } from 'react-scroll';
 import drogaCapa from '../../imgs/drogascapa.jpg';
 import drogaImagem from '../../imgs/drogas.jpg';
-import realtime from '../../imgs/icone_7_card.png';
-import Personalização from '../../imgs/icone_6_card.png';
-import Acesso from '../../imgs/icone_5_card.png';
-import Jornada from '../../imgs/icone_8_card.png';
-import UtilizacaoImagem from '../../imgs/infografico.png'
-import FuncionamentoImagem from '../../imgs/dispositivos.png'
+import realtime from '../../imgs/icon3_vantagem.png';
+import Personalização from '../../imgs/icon2_vantagem.png';
+import Acesso from '../../imgs/icon1_vantagem.png';
+import Jornada from '../../imgs/icon4_vantagem.png';
+import FuncionamentoImagem from '../../imgs/multi_dispositivo.png'
 import './mainpage.scss'
 
 function MainPage() {
@@ -17,7 +16,7 @@ function MainPage() {
                 <div>
                     <div className="HomeContainer">
                         <div className="HomeTxt1">
-                            <p>Saúde Única</p>
+                            <p>Anti-vicio</p>
                         </div>
                         <div className="HomeImg">
                             <img
@@ -25,8 +24,8 @@ function MainPage() {
                                 alt='gif sustentabilidade'></img>
                         </div>
                         <div className="HomeTxt2">
-                            <p>Unindo Saúde, Simplificando Vidas</p>
-                            <p>O Projeto Saúde Única é uma plataforma digital que facilita a busca por atendimento médico, reunindo informações de vários estabelecimentos de saúde. Com ela, é possível agendar consultas, escolher onde ser atendido e ter uma experiência ágil e personalizada.</p>
+                            <p>Introdução do Projeto</p>
+                            <p>O projeto nasce da preocupação crescente com os vícios e dependências na sociedade contemporânea. Diante do aumento alarmante no consumo de substâncias e comportamentos aditivos, surge a necessidade de uma abordagem inovadora. O nosso objetivo é oferecer uma solução tecnológica capaz de apoiar indivíduos no processo de superação dessas adversidades, fornecendo ferramentas e acompanhamento necessários para conquistar uma vida mais saudável e livre de vícios.</p>
                         </div>
                     </div>
                 </div>
@@ -40,8 +39,8 @@ function MainPage() {
                                 alt="inundação"></img>
                         </div>
                         <div className="aboutTxT">
-                            <p>Nossa olução</p>
-                            <p>O coração do nosso programa é um software abrangente de acompanhamento de resultados relacionados ao controle de vícios. Ao registrar o tipo específico de vício, seu estágio atual e estabelecer metas personalizadas, você terá uma ferramenta poderosa para moldar seu próprio percurso de superação. Nossa abordagem combina técnicas comprovadas, atividades práticas e estratégias de condicionamento psicológico, proporcionando um ambiente de apoio contínuo.</p>
+                            <p>Sobre a Solução</p>
+                            <p>A nossa solução é um software de acompanhamento personalizado, destinado a auxiliar na superação de vícios, sejam eles relacionados a substâncias ou comportamentos. Com uma abordagem ampla e acessível, o programa permite que os usuários estabeleçam metas, recebam orientações e estratégias embasadas em estudos psicológicos e pratiquem atividades que visam o controle e superação do vício.</p>
 
                         </div>
                     </div>
@@ -50,12 +49,7 @@ function MainPage() {
                     <div className='UtiliContent'>
                         <div className='UtiliTxt'>
                             <p>O que ela fará?</p>
-                            <p>Nosso programa funciona através de uma interface intuitiva, acessível em computadores, celulares e tablets. Você pode criar e acompanhar metas, receber orientações baseadas em fontes confiáveis, como a Organização Mundial de Saúde e a Associação Internacional de Psicologia Aplicada, e participar de um sistema de recompensas exclusivo que celebra cada vitória alcançada. Lembramos que nosso programa não substitui a orientação médica, mas atua como um parceiro valioso no seu processo de superação.</p>
-                        </div>
-                        <div className="UtiliImg">
-                            <img
-                                src={UtilizacaoImagem}
-                                alt="Infografico"></img>
+                            <p>Nosso software oferecerá uma plataforma interativa na qual os usuários poderão registrar seu tipo específico de vício, determinar o estágio atual e definir metas viáveis para superá-lo. Além disso, fornecerá recursos para acompanhamento de progresso, técnicas de controle do vício e recompensas ao atingir metas, incentivando assim a jornada rumo à libertação dos vícios.</p>
                         </div>
                     </div>
                 </div>
@@ -65,7 +59,7 @@ function MainPage() {
                     <div className='FuncioContent'>
                         <div className='FuncioTxt'>
                             <p>Como funcionará?</p>
-                            <p>O funcionamento do nosso programa é simples e eficaz. Ao começar, você registra o tipo específico de vício, indica o estágio atual e estabelece metas personalizadas para o controle do vício. Nosso software utiliza uma abordagem abrangente que combina estratégias psicológicas, atividades práticas e metas tangíveis. Com uma interface intuitiva disponível em computadores, celulares e tablets, você pode acessar e monitorar seu progresso de qualquer lugar. O programa oferece orientações baseadas em fontes confiáveis, como a Organização Mundial de Saúde e a Associação Internacional de Psicologia Aplicada, para garantir informações precisas e confiáveis. Além disso, ao atingir suas metas, você será recompensado com benefícios exclusivos, criando um ciclo positivo de conquistas e incentivos ao longo de sua jornada de superação.</p>
+                            <p>Ao se cadastrar, os usuários terão acesso a um ambiente intuitivo e multifuncional, no qual poderão explorar estratégias psicológicas, definir metas personalizadas e receber orientações embasadas em fontes confiáveis sobre o tratamento de vícios. O programa estará disponível em computadores, celulares e tablets, garantindo um acompanhamento contínuo e flexível, adaptado às necessidades individuais de cada usuário.</p>
                         </div>
                         <div className="FuncioImg">
                             <img
@@ -85,12 +79,12 @@ function MainPage() {
                                     <img
                                         src={Acesso}
                                         alt="Acesso"></img>
-                                    <h3>Facilidade de Acesso</h3>
+                                    <h3>Personalização e Controle</h3>
                                 </div>
                             </div>
                             <div className="Face2S">
                                 <div className="Face2ContentS">
-                                    <p> Informações sobre vários estabelecimentos de saúde para agendamento rápido de consultas.
+                                    <p> Oferece um acompanhamento personalizado, permitindo que os usuários controlem seu próprio processo de superação.
                                     </p>
                                 </div>
                             </div>
@@ -101,12 +95,12 @@ function MainPage() {
                                     <img
                                         src={Personalização}
                                         alt="Personalização"></img>
-                                    <h3>Personalização</h3>
+                                    <h3>Recursos Embasados em Evidências</h3>
                                 </div>
                             </div>
                             <div className="Face2S">
                                 <div className="Face2ContentS">
-                                    <p>Seleção consciente do local de tratamento conforme as necessidades individuais.</p>
+                                    <p>Utiliza técnicas e estratégias comprovadas, baseadas em estudos reconhecidos na área da psicologia.</p>
                                 </div>
                             </div>
                         </div>
@@ -116,12 +110,12 @@ function MainPage() {
                                     <img
                                         src={realtime}
                                         alt="realtime"></img>
-                                    <h3>Informações real time</h3>
+                                    <h3>Apoio Contínuo</h3>
                                 </div>
                             </div>
                             <div className="Face2S">
                                 <div className="Face2ContentS">
-                                    <p>Geolocalização para encontrar locais próximos e estimativa de tempo para atendimento.
+                                    <p>Disponibilidade em diversas plataformas para um acompanhamento constante, proporcionando suporte em qualquer momento.
                                     </p>
                                 </div>
                             </div>
@@ -132,12 +126,12 @@ function MainPage() {
                                     <img
                                         src={Jornada}
                                         alt="Jornada"></img>
-                                    <h3>Follow up da Jornada de Saúde</h3>
+                                    <h3>Incentivo por Metas Alcançadas</h3>
                                 </div>
                             </div>
                             <div className="Face2S">
                                 <div className="Face2ContentS">
-                                    <p>Possibilidade de redirecionamento para outras instituições, se necessário.
+                                    <p>Oferece um sistema de recompensas motivacionais ao usuário ao atingir seus objetivos de superação.
                                     </p>
                                 </div>
                             </div>

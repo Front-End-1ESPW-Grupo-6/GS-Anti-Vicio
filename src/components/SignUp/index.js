@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import "./signup.scss";
 import { useEffect, useState } from "react";
-import Logo from "../../imgs/logo_color.png"
+import Logo from "../../imgs/logo_w.png"
 import signUp from "./script"
 import OpenEye from '../../imgs/icons/olho.png';
 import ClosedEye from '../../imgs/icons/olho fechado.png';

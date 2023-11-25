@@ -3,7 +3,7 @@ import { useState } from "react";
 import './login.scss'
 import OpenEye from "../../imgs/icons/olho.png"
 import ClosedEye from "../../imgs/icons/olho fechado.png"
-import Logo from "../../imgs/logo_color.png"
+import Logo from "../../imgs/logo_w.png"
 import Auth from "./script"
 
 function Login() {

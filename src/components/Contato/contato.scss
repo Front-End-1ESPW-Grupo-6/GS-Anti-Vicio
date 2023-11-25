@@ -6,7 +6,7 @@
     font-size: 3em;
     font-weight: bold;
     margin: 1em 0;
-    color: #0f62fe;
+    color: #ecd014;
   }
 
   @media (min-width: 1100px) {
@@ -39,7 +39,7 @@
 
 .SobreImg{
     img{
-        width: 100%;
+        width: 75%;
         padding: 1em;
     }
 }
@@ -60,7 +60,7 @@
 
 .Cards{
     width: 325px;
-background-color: #0f62fe;
+background-color: #ecd014;
 color: #fff;
 border-radius: 10px;
 box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
@@ -104,7 +104,7 @@ padding: 1em;
     p:first-child {
         font-weight: bold;
         font-size: 3em;
-        color: #0f62fe;
+        color: #ecd014;
     }
 
 @media (min-width: 1100px) {
@@ -115,7 +115,7 @@ padding: 1em;
     p:first-child {
         font-weight: 800;
         font-size: 4em;
-        color: #0f62fe;
+        color: #ecd014;
     }
     p:nth-child(2) {
         font-weight: 800;
@@ -182,7 +182,7 @@ padding: 1em;
 p:first-child {
     font-size: 1.5em;
     font-weight: 800;
-    color: #0f62fe;
+    color: #ecd014;
     padding: 5px
 }
 button {
@@ -201,7 +201,7 @@ button {
     border-radius: 2em;
 }
 button:hover {
-    background: #0f62fe;
+    background: #ecd014;
     box-shadow: 0px 2px 10px 5px #97B1BF;
     color: #fff;
 }
@@ -214,7 +214,7 @@ button:hover {
     p:first-child {
         font-size: 1.5em;
         font-weight: 800;
-        color: #0f62fe;
+        color: #ecd014;
         margin: 5px
     }
     button {
