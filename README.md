@@ -27,8 +27,8 @@ O projeto foi desenvolvido utilizando como base a biblioteca React, para a estru
 
 O site do projeto é composto pelas páginas e seções:
   - Home
-  - Problema
-  - Causas
+  - Sobre
+  - Funcionamento
   - Solução
   - Sobre Nós
   - Contato
