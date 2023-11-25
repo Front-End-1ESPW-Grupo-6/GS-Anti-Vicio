@@ -10,7 +10,7 @@
 **Ano:** 2023
 ___
 <p align="center">
-<img src="./src/imgs/Galo_Weather.png" align=center>
+<img src="./src/imgs/logo_white.png" align=center>
 </p>
 
 ## Descrição do Projeto
